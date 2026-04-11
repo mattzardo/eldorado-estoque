@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/estoque_eldorado_v2.html" }
+  ]
+}
